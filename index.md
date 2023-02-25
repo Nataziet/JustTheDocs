@@ -14,7 +14,7 @@ Let’s start from the beginning and check who is who in this technical writing 
 
 Who is a **Technical Writer**? To not bore you with Wiki definition, in simple words, it’s a person who takes advanced technical concepts and communicates them as clearly, accurately, and comprehensively as possible to their intended audience, ensuring that the work is accessible to its users.
 
-![svg image](user_manual_image.png)
+![svg image]()
 
 
 And who is **SME**? SME stands for subject-matter expert and is also known as a domain expert. Basically, it is the person who has the answers to your questions and without them, you are not able to finish your project. So, you are dependent on your SME and for sure you want to have good relations to work efficiently. 
@@ -56,3 +56,6 @@ Conclusion: **A Happy SME = A Happy Technical Writer**
 
 Happy writing!
 
+
+
+[C:\GIT\JustTheDocs\images]: C:\GIT\JustTheDocs\images
