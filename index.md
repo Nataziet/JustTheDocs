@@ -14,7 +14,7 @@ Let’s start from the beginning and check who is who in this technical writing 
 
 Who is a **Technical Writer**? To not bore you with Wiki definition, in simple words, it’s a person who takes advanced technical concepts and communicates them as clearly, accurately, and comprehensively as possible to their intended audience, ensuring that the work is accessible to its users.
 
-![svg image]()
+![svg image](images/user_manual_image.png)
 
 
 And who is **SME**? SME stands for subject-matter expert and is also known as a domain expert. Basically, it is the person who has the answers to your questions and without them, you are not able to finish your project. So, you are dependent on your SME and for sure you want to have good relations to work efficiently. 
@@ -28,9 +28,9 @@ Keeping that in mind, think how you would like to be approached? Any suggestions
 1. **Try to be friendly and make an effort to know better your SME.**
 How? Have a coffee together, or lunch or beer . Try to talk about your hobbies or plans for weekend or summer holidays. Maybe share Netflix show recommendation. Just break the ice between two of you.
 
-![svg image](lunch_image.png)
+![image](images/lunch_image.png)
 
-2. **Respect time of your SME.** 
+1. **Respect time of your SME.** 
 And yours too. If you are struggling to set up a meeting with your busy SME but luckily you managed to have some time with them, do them and yourself a favor and be prepared! Propose an agenda of the meeting so the SME can also prepare themselves. Ask crucial questions and not obvious ones. Prepare some prospects. Take as much as you can from those meetings. 
 
 
