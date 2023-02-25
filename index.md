@@ -34,20 +34,20 @@ How? Have a coffee together, or lunch or beer . Try to talk about your hobbies o
 And yours too. If you are struggling to set up a meeting with your busy SME but luckily you managed to have some time with them, do them and yourself a favor and be prepared! Propose an agenda of the meeting so the SME can also prepare themselves. Ask crucial questions and not obvious ones. Prepare some prospects. Take as much as you can from those meetings. 
 
 
-![svg image](time_image.png)
+![image](images/time_image.png)
 
 
 3. **Choose the right communication channel.**
 Not everybody is a ‘people person’ and may not have the pleasure to meet in person. Nowadays, we work in international companies or totally remotely and we might live in different locations. Therefore, it might be hard to have a chat face to face. We have a wide range of communication channels to choose from. Check what would be the best for contacting your SME.
 
-![svg image](comm_channels_image.png)
+![image](images/comm_channels_image.png)
 
 4. **Friendly reminder.**
 Waiting and waiting for response from SME but with no luck? Remember, they are normal human beings and people forget stuff. Remind them about your request, in a friendly manner. 
 
 *A tip from me: a funny meme can be an icebreaker.*
 
-![svg image](meme_image.png)
+![image](images/meme_image.png)
 
 
 Keeping all of this in mind, just think in what environment you like to work and try to approach your SME the way you would like to be approached, in respectful, friendly and trustworthy manner. I bet most people would like that (if we don’t have to deal with psychopaths ).
