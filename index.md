@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 Unresponsive SME - how to handle.
 =================================
 
