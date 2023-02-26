@@ -8,6 +8,10 @@ layout: default
 
 ![image](images/ciucik.png)
 
+## Plus: bonus for Ziomuniunia
+
+![image](images/bug.jpg)
+
 
 
 
