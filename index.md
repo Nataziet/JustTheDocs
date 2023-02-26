@@ -14,6 +14,8 @@ Let’s start from the beginning and check who is who in this technical writing 
 
 Who is a **Technical Writer**? To not bore you with Wiki definition, in simple words, it’s a person who takes advanced technical concepts and communicates them as clearly, accurately, and comprehensively as possible to their intended audience, ensuring that the work is accessible to its users.
 
+Changes added to generate conflict.
+
 ![svg image](images/user_manual_image.png)
 
 
