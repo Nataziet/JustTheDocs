@@ -3,6 +3,14 @@ title: Home
 layout: default
 ---
 
+
+# Uwaga: dodano Ciucika!
+
+![image](images/ciucik.png)
+
+
+
+
 Unresponsive SME - how to handle.
 =================================
 
