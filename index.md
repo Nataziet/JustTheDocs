@@ -13,7 +13,9 @@ layout: default
 ![image](images/bug.jpg)
 
 
+# To make a conflict
 
+![image](images/friend.jpg)
 
 Unresponsive SME - how to handle.
 =================================
