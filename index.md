@@ -3,6 +3,18 @@ title: Home
 layout: default
 ---
 
+
+# Uwaga: dodano Ciucika!
+
+![image](images/ciucik.png)
+
+## Plus: bonus for Ziomuniunia
+
+![image](images/bug.jpg)
+
+
+
+
 Unresponsive SME - how to handle.
 =================================
 
